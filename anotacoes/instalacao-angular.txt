@@ -1,0 +1,4 @@
+1 - instalar o node.js 
+  1.1 - baixar o instalador no node.js, site "https://nodejs.org/en/"
+  1.2 - executar o instalador
+2 - instalar o angular executando o comando no cmd "npm install -g @angular/cli"
