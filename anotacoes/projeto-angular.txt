@@ -1,0 +1,3 @@
+1 - para criar um projeto angular
+  1.2 - abra o cmd 
+  1.3 - digite o seguinte comando "ng new <nome-aplicacao>"
