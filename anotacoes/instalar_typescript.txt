@@ -1,0 +1,4 @@
+para poder instalar o typescript é necessario a intalação do node.js
+
+1 - abrir o cmd
+2 - digitar o comando "npm install -g typescript"
